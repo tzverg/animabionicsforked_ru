@@ -1,0 +1,7 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<LanguageData>
+
+  <ToxinScratch.label>заразная рана</ToxinScratch.label>
+  <ToxinScratch.deathMessage>{0} был разорван на части когтистой анима-рукой.</ToxinScratch.deathMessage>
+
+</LanguageData>
